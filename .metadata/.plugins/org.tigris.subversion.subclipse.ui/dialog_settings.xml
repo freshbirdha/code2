@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="RepositorySelectionPage.lastRepository" value="svn://133.130.75.61:80/banma-23012"/>
+	<item key="DirectorySelectionPage.lastParent_svn://133.130.75.61:80/banma-23012" value="JavaProject"/>
+	<item key="ChooseUrlDialog.location.x" value="407"/>
+	<item key="ChooseUrlDialog.location.y" value="91"/>
+	<item key="ChooseUrlDialog.size.x" value="497"/>
+	<item key="ChooseUrlDialog.size.y" value="371"/>
+	<item key="CommitDialog.location.x" value="71"/>
+	<item key="CommitDialog.location.y" value="6"/>
+	<item key="CommitDialog.size.x" value="1168"/>
+	<item key="CommitDialog.size.y" value="607"/>
+	<item key="CommitDialog.weights.0" value="500"/>
+	<item key="CommitDialog.weights.1" value="500"/>
+	<item key="RevertDialog.location.x" value="421"/>
+	<item key="RevertDialog.location.y" value="108"/>
+	<item key="RevertDialog.size.x" value="525"/>
+	<item key="RevertDialog.size.y" value="385"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.リビジョン" value="65"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.日付" value="161"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.作成者" value="128"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.コメント" value="321"/>
+	<item key="TreeConflictsView.col.Resource" value="147"/>
+	<item key="TreeConflictsView.col.Description" value="876"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="svn://133.130.75.61:80/banma-23012"/>
+		</list>
+	</section>
+	<section name="CommitWizard">
+		<item key="VWeight1" value="500"/>
+		<item key="VWeight2" value="500"/>
+		<item key="ShowCompare" value="false"/>
+	</section>
+</section>

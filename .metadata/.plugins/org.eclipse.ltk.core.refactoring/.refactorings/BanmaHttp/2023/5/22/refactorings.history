@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HttpRequest.java&apos; to &apos;Course Test/src/http&apos;&#x0D;&#x0A;- Original project: &apos;BanmaHttp&apos;&#x0D;&#x0A;- Destination element: &apos;Course Test/src/http&apos;&#x0D;&#x0A;- Original element: &apos;com.banma_school.http.HttpRequest.java&apos;" description="Copy compilation unit" destination="=Course Test/src&lt;http" element1="/src&lt;com.banma_school.http{HttpRequest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685342347788" units="1" version="1.0"/>
+</session>

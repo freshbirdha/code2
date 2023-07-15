@@ -1,0 +1,15 @@
+
+public class ServerDataThread extends Thread {
+	
+	@Override
+	public void run() {
+		try {
+			while (true) {
+				
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

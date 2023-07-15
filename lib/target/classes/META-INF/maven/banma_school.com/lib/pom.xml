@@ -1,0 +1,102 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>banma_school.com</groupId>
+  <artifactId>lib</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  	
+<!-- 	<dependencies><dependency><groupId>org.apache.httpcomponents</groupId>-->
+<!--    <artifactId>httpclient</artifactId>-->
+<!--   <version>4.5.13</version> </dependency></dependencies>-->
+<!--<dependencies>-->
+<!--<dependency>-->
+<!--    <groupId>mysql</groupId>-->
+<!--    <artifactId>mysql-connector-java</artifactId>-->
+<!--    <version>8.0.32</version>-->
+<!--</dependency>-->
+<!--</dependencies>-->
+
+
+
+
+
+
+
+	<dependencies>
+		<dependency>
+	   <groupId>commons-pool</groupId>
+	    <artifactId>commons-pool</artifactId>
+	  <version>1.4</version>
+	</dependency>
+		
+		
+ 	<dependency>
+    <groupId>com.mchange</groupId>
+    <artifactId>c3p0</artifactId>
+    <version>0.9.5.5</version>
+</dependency>
+
+<dependency>
+ <groupId>org.apache.commons</groupId>
+<artifactId>commons-dbcp2</artifactId>
+<version>2.9.0</version>
+</dependency>
+
+
+
+<dependency>
+    <groupId>commons-collections</groupId>
+    <artifactId>commons-collections</artifactId>
+    <version>3.2.2</version>
+</dependency>
+
+<dependency>
+    <groupId>commons-fileupload</groupId>
+    <artifactId>commons-fileupload</artifactId>
+    <version>1.4</version>
+</dependency>
+
+<dependency>
+    <groupId>net.iharder</groupId>
+    <artifactId>base64</artifactId>
+    <version>2.3.9</version>
+</dependency>
+
+
+<dependency>
+   <groupId>javax.mail</groupId>
+    <artifactId>javax.mail-api</artifactId>
+   <version>1.6.2</version>
+</dependency>
+
+<dependency>
+    <groupId>com.sun.mail</groupId>
+    <artifactId>javax.mail</artifactId>
+    <version>1.6.2</version>
+</dependency>
+
+
+
+<!--<dependency>-->
+<!--    <groupId>javax.activation</groupId>-->
+<!--    <artifactId>javax.activation-api</artifactId>-->
+<!--    <version>1.2.0</version>-->
+<!--</dependency>-->
+
+<dependency>
+    <groupId>javax.activation</groupId>
+    <artifactId>activation</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+
+ <dependency>
+    <groupId>com.alibaba</groupId>
+    <artifactId>fastjson</artifactId>
+    <version>2.0.31</version>
+</dependency>
+</dependencies>
+
+
+ 
+
+</project>

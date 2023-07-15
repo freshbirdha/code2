@@ -1,0 +1,2 @@
+2023-05-14 15:02:58  [ main:0 ] - [ INFO ]  开始运行add(double i,double j)方法 x =3.14,j =5.13
+2023-05-14 15:02:58  [ main:8 ] - [ INFO ]  结束add(double i,double j)方法 返回sum =8.27
